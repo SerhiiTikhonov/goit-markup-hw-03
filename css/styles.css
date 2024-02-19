@@ -57,9 +57,12 @@ body {
 /* Header styles */
 .page-header {
   border-bottom: 1px solid #e7e9fc;
+}
+.page-header-container {
   display: flex;
   justify-content: space-between;
 }
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
